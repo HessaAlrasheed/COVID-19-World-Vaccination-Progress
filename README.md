@@ -10,7 +10,7 @@ The dataset tracks the total number of COVID-19 vaccinations administered in eac
 source [here](https://www.kaggle.com/gpreda/covid-world-vaccination-progress?select=country_vaccinations.csv).
 
 # Tools
-- Numpy and Pandas for data manipulation.
+- numpy and pandas for data manipulation.
 - ARIMA for modeling.
 - matplotlib and seaborn for plotting.
 - The work will be done through colab notebook.
