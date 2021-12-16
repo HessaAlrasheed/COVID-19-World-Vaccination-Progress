@@ -1,4 +1,4 @@
-# COVID-19-World-Vaccination-Progress
+# COVID-19 World Vaccination Progress
 This is project made for the Online Data Science Bootcamps for SDAIA Academy.
 
 # Abstract
